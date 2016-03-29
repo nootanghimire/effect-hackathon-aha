@@ -1,4 +1,4 @@
-#Backend for Aha!
+#Aha! Information Retention App
 
-Copy `config.sample.php` to `config.php` and perform necessary modification
-Database strucuture is available in `db.sql`
+
+See `backend/README.md` for backend app.
